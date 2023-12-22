@@ -1,0 +1,15 @@
+```
+/*
+ * File: misc.txt
+ * Project: Patent_003_KiCAD
+ * File Created: Monday, 1st November 2021
+ * Author: Your Name (your.email@example.com)
+ * -----
+ * Last Modified: Monday, 1st November 2021
+ * Modified By: Your Name (your.email@example.com)
+ * -----
+ * Description: 
+ * This is the miscellaneous file for the Patent #003 KiCAD project. 
+ * It contains any other files related to the project that don’t neatly fit into the other categories.
+ */
+```
